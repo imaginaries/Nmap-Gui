@@ -1,0 +1,1 @@
+Requires python-nmap package and sometimes tk in order to work
